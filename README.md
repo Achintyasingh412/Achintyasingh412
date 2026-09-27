@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=ACHINTYA%20SINGH&fontSize=40&fontColor=fff&animation=fadeIn&fontY=38&desc=COMPUTER%20SCIENCE%20STUDENT%20•%20DATA%20PIPELINES%20•%20STREAMLIT%20EXPERT&descSize=15&descColor=cyan" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=ACHINTYA%20SINGH&fontSize=38&fontColor=fff&animation=fadeIn&fontY=35&desc=COMPUTER%20SCIENCE%20STUDENT%20•%20DATA%20PIPELINES%20•%20STREAMLIT%20EXPERT&descSize=14&descColor=cyan&descY=68" width="100%" />
 
-  <p>
+  <p style="margin-top: 15px;">
     <a href="https://github.com/Achintyasingh412"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/achintya-singh-0ba559418?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"></a>
   </p>
 </div>
@@ -85,7 +85,7 @@
 ### 📈 <ins>**GITHUB STATS**</ins>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achintyasingh412&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Achintyasingh412&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintyasingh412&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintyasingh412&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
