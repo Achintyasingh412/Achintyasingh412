@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>ACHINTYA SINGH</h1>
-  <p><b>COMPUTER SCIENCE STUDENT • PYTHON & C DEVELOPER • DATA PIPELINES</b></p>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=ACHINTYA%20SINGH&fontSize=40&fontColor=fff&animation=fadeIn&fontY=38&desc=COMPUTER%20SCIENCE%20STUDENT%20•%20DATA%20PIPELINES%20•%20STREAMLIT%20EXPERT&descSize=15&descColor=cyan" width="100%" />
+
   <p>
     <a href="https://github.com/Achintyasingh412"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -11,80 +10,82 @@
 
 ---
 
-### 💻 About
-> Computer Science Engineering student focused on building robust data pipelines, backend applications, automation scripts, and problem-solving through code.
+### 💻 <ins>**ABOUT ME**</ins>
+> **Computer Science Engineering student** specializing in robust data pipelines, backend architecture, and interactive full-stack applications. 
 > 
-> Experienced in open-source contributions and neuroimaging toolsets, working with data structures, automated workflows, and version control on GitHub.
-> 
-> I prefer hands-on implementation and building practical systems from scratch.
+> * **Streamlit Specialist:** Built multiple production-ready interactive SaaS dashboards, data visualizers, and frontend tools.
+> * **Open Source & Research:** Active contributor to neuroimaging and meta-analysis frameworks like **NiMARE** and **Nilearn**.
+> * **Philosophy:** *A script that only works locally is just a draft. A model or pipeline wrapped cleanly with proper telemetry, automation, and a Streamlit UI becomes an enterprise tool.*
 
 ---
 
-### 📊 Recent & Active Work
-| Project | Contribution | Status |
+### 📊 <ins>**RECENT WORK & HIGHLIGHTS**</ins>
+| Project | Core Stack | Status |
 | :--- | :--- | :--- |
-| **NiMARE** | Developing coordination-based meta-analysis workflows, sensitivity analyses, and data processing scripts | `ACTIVE` |
-| **Nilearn** | Contributing to documentation updates and refining manual data pipelines for loading and masking | `ACTIVE` |
-| **Calendar Booking App** | Built a web-based calendar slot booking system using Python and Twilio API integrations | `COMPLETED` |
+| **Biomedical NLP & Clinical Text ETL Pipeline** | Python, FastAPI, Streamlit, Pydantic | `PRODUCTION` |
+| **Hybrid Multi-Agent Pipeline in Langflow** | Langflow, Ollama, Gemini, Groq | `COMPLETED` |
+| **NiMARE Meta-Analysis Workflows** | Python, Pandas, Data Pipelines | `ACTIVE` |
+| **Nilearn Documentation & Pipelines** | Python, Open Source, Git | `ACTIVE` |
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 <ins>**FEATURED PROJECTS**</ins>
 
-* **1. Neuroimaging Meta-Analysis Pipeline (NiMARE)**
-  Developing data pipeline workflows for coordinate-based meta-analyses, implementing sensitivity analysis loops (like Jackknife testing), and transforming dataset structures for robust statistical modeling.
-  *Tools:* `Python`, `NiMARE`, `Data Pipelines`, `Pandas`
-  [View Repository →](https://github.com/Achintyasingh412)
+* **1. Biomedical NLP & Clinical Text ETL Pipeline**
+  Enterprise-grade clinical text sanitization, medication entity extraction, and structured prescription intelligence. Features a robust FastAPI backend service paired with an interactive **Streamlit SaaS Dashboard** for real-time data inspection and management.
+  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+  [View Repository →](https://github.com/Achintyasingh412/biomedical-pipeline.1)
 
-* **2. Nilearn Documentation & Data Pipeline Tools**
-  Contributing to open-source neuroimaging libraries by updating core documentation and refining manual data pipelines focused on efficient data loading, processing, and masking workflows.
-  *Tools:* `Python`, `Nilearn`, `Git`, `Open Source`
-  [View Repository →](https://github.com/Achintyasingh412)
+* **2. Hybrid Multi-Agent Software Engineering Pipeline in Langflow**
+  Architected a multi-agent orchestration framework simulating a complete software development house on a local machine. Combines Langflow visual programming with local Ollama runtimes, Gemini, and high-speed Groq infrastructure to handle code generation, debugging, and execution.
+  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Langflow](https://img.shields.io/badge/Langflow-FF5722?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=gofg&logoColor=white)
+  [View Repository →](https://github.com/Achintyasingh412/Architecting-a-Hybrid-Multi-Agent-Software-Engineering-Pipeline-in-langflow)
 
-* **3. Calendar Slot Booking Web App**
+* **3. Neuroimaging Meta-Analysis & Data Pipelines (NiMARE & Nilearn)**
+  Developing coordinate-based meta-analysis workflows, sensitivity analysis loops (Jackknife testing), and contributing core documentation fixes and data loader/masking pipelines for open-source neuroimaging repositories.
+  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+* **4. Calendar Slot Booking Web App**
   A dynamic web application built using Python to handle user scheduling and slot management seamlessly, integrated with Twilio API for automated messaging notifications.
-  *Tools:* `Python`, `Flask`, `Twilio API`, `HTML/CSS`
-  [View Repository →](https://github.com/Achintyasingh412)
+  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 
-* **4. Python Weather Checker**
-  A utility script utilizing the Python `requests` library to fetch real-time meteorological data and display structured forecasts cleanly to the user.
-  *Tools:* `Python`, `Requests Library`, `REST APIs`
-  [View Repository →](https://github.com/Achintyasingh412)
-
-* **5. Algorithmic Problem Solver & Automation Suite**
-  A collection of utility scripts, automation tools, and data-structure implementations focused on optimizing runtime performance and streamlining repetitive local tasks.
-  *Tools:* `Python`, `C`, `Automation`
-  [View Repository →](https://github.com/Achintyasingh412)
+* **5. Python Weather Checker (Utility Script)**
+  A lightweight utility script utilizing the Python `requests` library to fetch real-time meteorological data and display structured forecasts cleanly to the user.
+  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ <ins>**TECH STACK & SKILLS**</ins>
 
-* **Languages**  
+* **Languages:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* **Data & Backend**  
+* **Frontend & Visualization:**  
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+* **Data Pipelines & Backend:**  
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+* **Tools & Workflow:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### ⚙️ How I Work
-> Understand $\rightarrow$ Code $\rightarrow$ Test $\rightarrow$ Iterate. Read the documentation, understand the core logic, build the solution, and test edge cases.
-> 
-> *A script that only works on your local machine is just a draft. A script wrapped cleanly with proper logic, data pipelines, and external integrations becomes a tool.*
-
----
-
-### 📈 GitHub Activity
+### 📈 <ins>**GITHUB STATS**</ins>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achintyasingh412&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Achintyasingh412&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintyasingh412&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintyasingh412&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
