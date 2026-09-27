@@ -82,8 +82,8 @@
 
 ---
 
-### 📈 <ins>**GITHUB ACTIVITY & STREAK**</ins>
+### 📈 <ins>**GITHUB STATS & CONTRIBUTIONS**</ins>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achintyasingh412&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achintyasingh412&theme=radical&hide_border=true&hide=currentStreak" alt="GitHub Contributions" />
 </div>
