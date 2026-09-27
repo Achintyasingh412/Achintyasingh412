@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=ACHINTYA%20SINGH&fontSize=38&fontColor=fff&animation=fadeIn&fontY=35&desc=COMPUTER%20SCIENCE%20STUDENT%20•%20DATA%20PIPELINES%20•%20STREAMLIT%20EXPERT&descSize=14&descColor=cyan&descY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=ACHINTYA%20SINGH&fontSize=38&fontColor=fff&animation=fadeIn&fontY=30&desc=COMPUTER%20SCIENCE%20STUDENT%20•%20DATA%20PIPELINES%20•%20STREAMLIT%20EXPERT&descSize=14&descColor=cyan&descY=75" width="100%" />
 
   <p style="margin-top: 15px;">
     <a href="https://github.com/Achintyasingh412"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -82,10 +82,8 @@
 
 ---
 
-### 📈 <ins>**GITHUB STATS**</ins>
+### 📈 <ins>**GITHUB ACTIVITY & STREAK**</ins>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achintyasingh412&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintyasingh412&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achintyasingh412&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
