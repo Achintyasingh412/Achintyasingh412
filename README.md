@@ -14,7 +14,7 @@
 > **Computer Science Engineering student** specializing in robust data pipelines, backend architecture, and interactive full-stack applications. 
 > 
 > * **Streamlit Specialist:** Built multiple production-ready interactive SaaS dashboards, data visualizers, and frontend tools.
-> * **Open Source & Research:** Active contributor to neuroimaging and meta-analysis frameworks like **NiMARE** and **Nilearn**.
+> * **Open Source & Research:** Active open-source contributor with active feature branches (`neurostuff/NiMARE #1161`)[cite: 25], merged/approved pull requests in **nilearn/nilearn**[cite: 20, 23, 24], and contributions across communities like `@firstcontributions` and `@TheAlgorithms`[cite: 22].
 > * **Philosophy:** *A script that only works locally is just a draft. A model or pipeline wrapped cleanly with proper telemetry, automation, and a Streamlit UI becomes an enterprise tool.*
 
 ---
@@ -22,36 +22,35 @@
 ### 📊 <ins>**RECENT WORK & HIGHLIGHTS**</ins>
 | Project | Core Stack | Status |
 | :--- | :--- | :--- |
-| **Biomedical NLP & Clinical Text ETL Pipeline** | Python, FastAPI, Streamlit, Pydantic | `PRODUCTION` |
-| **Hybrid Multi-Agent Pipeline in Langflow** | Langflow, Ollama, Gemini, Groq | `COMPLETED` |
-| **NiMARE Meta-Analysis Workflows** | Python, Pandas, Data Pipelines | `ACTIVE` |
-| **Nilearn Documentation & Pipelines** | Python, Open Source, Git | `ACTIVE` |
+| **neurostuff/NiMARE (PR #1161)** | Python, Jackknife Sensitivity Analysis | `ACTIVE`[cite: 25] |
+| **nilearn/nilearn (PR #6628)** | Python, Documentation Example | `MERGED`[cite: 23] |
+| **nilearn/nilearn (PR #6623)** | Python, Maintenance & Links Fix | `MERGED`[cite: 24] |
+| **nilearn/nilearn (PR #6313)** | Python, Bug Fix (`plot_anat`) | `APPROVED`[cite: 20] |
+| **Hybrid Multi-Agent Pipeline in Langflow** | Langflow, Python, AI Agents | `COMPLETED`[cite: 20, 21] |
 
 ---
 
 ### 🚀 <ins>**FEATURED PROJECTS**</ins>
 
-* **1. Biomedical NLP & Clinical Text ETL Pipeline**
-  Enterprise-grade clinical text sanitization, medication entity extraction, and structured prescription intelligence. Features a robust FastAPI backend service paired with an interactive **Streamlit SaaS Dashboard** for real-time data inspection and management.
-  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-  [View Repository →](https://github.com/Achintyasingh412/biomedical-pipeline.1)
+* **1. NiMARE Feature Development (PR #1161)**
+  Developing advanced coordinate-based meta-analysis features, specifically implementing jackknife sensitivity analysis workflows to ensure statistical robustness in neuroimaging datasets[cite: 25].
+  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  [View Repository →](https://github.com/neurostuff/NiMARE)
 
-* **2. Hybrid Multi-Agent Software Engineering Pipeline in Langflow**
-  Architected a multi-agent orchestration framework simulating a complete software development house on a local machine. Combines Langflow visual programming with local Ollama runtimes, Gemini, and high-speed Groq infrastructure to handle code generation, debugging, and execution.
+* **2. nilearn Open-Source Contributions**
+  Contributed maintenance updates, bug fixes, and documentation enhancements to `nilearn/nilearn`, including fixing NIfTI links and unstable URLs (PR #6623)[cite: 24], addressing `plot_anat` with `black_bg=False` (PR #6313)[cite: 20], and merging data directory examples (PR #6628)[cite: 23].
+  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)
+  [View Repository →](https://github.com/nilearn/nilearn)
+
+* **3. Hybrid Multi-Agent Software Engineering Pipeline in Langflow**
+  Architected a multi-agent orchestration framework simulating a complete software development house on a local machine, complete with upgrade planning and workflow documentation[cite: 20, 21].
   *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Langflow](https://img.shields.io/badge/Langflow-FF5722?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=gofg&logoColor=white)
   [View Repository →](https://github.com/Achintyasingh412/Architecting-a-Hybrid-Multi-Agent-Software-Engineering-Pipeline-in-langflow)
 
-* **3. Neuroimaging Meta-Analysis & Data Pipelines (NiMARE & Nilearn)**
-  Developing coordinate-based meta-analysis workflows, sensitivity analysis loops (Jackknife testing), and contributing core documentation fixes and data loader/masking pipelines for open-source neuroimaging repositories.
-  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-* **4. Calendar Slot Booking Web App**
-  A dynamic web application built using Python to handle user scheduling and slot management seamlessly, integrated with Twilio API for automated messaging notifications.
-  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-
-* **5. Python Weather Checker (Utility Script)**
-  A lightweight utility script utilizing the Python `requests` library to fetch real-time meteorological data and display structured forecasts cleanly to the user.
-  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=postman&logoColor=white)
+* **4. Biomedical NLP & Clinical Text ETL Pipeline**
+  Enterprise-grade clinical text sanitization and medication entity extraction backed by an interactive Streamlit SaaS dashboard.
+  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+  [View Repository →](https://github.com/Achintyasingh412/biomedical-pipeline.1)
 
 ---
 
@@ -59,6 +58,7 @@
 
 * **Languages:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
