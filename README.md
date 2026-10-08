@@ -14,7 +14,7 @@
 > **Computer Science Engineering student** specializing in robust data pipelines, backend architecture, and interactive full-stack applications. 
 > 
 > * **Streamlit Specialist:** Built multiple production-ready interactive SaaS dashboards, data visualizers, and frontend tools.
-> * **Open Source & Research:** Active open-source contributor with multiple merged pull requests in **nilearn/nilearn** (focusing on data pipelines, docstrings, and standardization mechanics), active work in **NiMARE**[cite: 25], and contributions across `@firstcontributions` and `@TheAlgorithms`[cite: 22].
+> * **Open Source & Research:** Active open-source contributor with multiple merged pull requests in **nilearn/nilearn** (focusing on data pipelines, docstrings, and standardization mechanics), active work in **NiMARE**, and contributions across `@firstcontributions` and `@TheAlgorithms`.
 > * **Philosophy:** *A script that only works locally is just a draft. A model or pipeline wrapped cleanly with proper telemetry, automation, and a Streamlit UI becomes an enterprise tool.*
 
 ---
@@ -22,11 +22,13 @@
 ### 📊 <ins>**RECENT WORK & HIGHLIGHTS**</ins>
 | Project | Core Stack | Status |
 | :--- | :--- | :--- |
-| **neurostuff/NiMARE (PR #1161)** | Python, Jackknife Sensitivity Analysis | ![ACTIVE](https://img.shields.io/badge/ACTIVE-228B22?style=flat-square)[cite: 25] |
+| **neurostuff/NiMARE (PR #1161)** | Python, Jackknife Sensitivity Analysis | ![ACTIVE](https://img.shields.io/badge/ACTIVE-228B22?style=flat-square) |
+| **Hostel Resource Negotiator** | TypeScript, Hacktoberfest Challenge | ![ACTIVE](https://img.shields.io/badge/ACTIVE-228B22?style=flat-square) |
 | **nilearn/nilearn (PR #6543)** | Python, `standardize` Parameter Docs & Fix | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square) |
-| **nilearn/nilearn (PR #6628)** | Python, Documentation Example | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square)[cite: 23] |
-| **nilearn/nilearn (PR #6623)** | Python, Maintenance & Links Fix | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square)[cite: 24] |
-| **nilearn/nilearn (PR #6313)** | Python, Bug Fix (`plot_anat`) | ![APPROVED](https://img.shields.io/badge/APPROVED-007EC6?style=flat-square)[cite: 20] |
+| **nilearn/nilearn (PR #6628)** | Python, Documentation Example | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square) |
+| **nilearn/nilearn (PR #6623)** | Python, Maintenance & Links Fix | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square) |
+| **Open Source (First Contributions)** | Git, GitHub Workflow | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square) |
+| **nilearn/nilearn (PR #6313)** | Python, Bug Fix (`plot_anat`) | ![APPROVED](https://img.shields.io/badge/APPROVED-007EC6?style=flat-square) |
 
 ---
 
@@ -39,16 +41,21 @@
   [View Repository →](https://github.com/nilearn/nilearn)
 
 * **2. NiMARE Feature Development (PR #1161)**
-  Developing advanced coordinate-based meta-analysis features, specifically implementing jackknife sensitivity analysis workflows to ensure statistical robustness in neuroimaging datasets[cite: 25].
+  Developing advanced coordinate-based meta-analysis features, specifically implementing jackknife sensitivity analysis workflows to ensure statistical robustness in neuroimaging datasets.
   *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   [View Repository →](https://github.com/neurostuff/NiMARE)
 
-* **3. Hybrid Multi-Agent Software Engineering Pipeline in Langflow**
-  Architected a multi-agent orchestration framework simulating a complete software development house on a local machine, complete with upgrade planning and workflow documentation[cite: 20, 21].
+* **3. Hostel Resource Negotiator & Hacktoberfest Repositories**
+  Developed utility systems and resource management logic for active Hacktoberfest challenges, expanding commit history across multiple TypeScript-based repositories.
+  *Tools:* ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  [View Repository →](https://github.com/Achintyasingh412/hostel-resource-negotiator)
+
+* **4. Hybrid Multi-Agent Software Engineering Pipeline in Langflow**
+  Architected a multi-agent orchestration framework simulating a complete software development house on a local machine, complete with upgrade planning and workflow documentation.
   *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Langflow](https://img.shields.io/badge/Langflow-FF5722?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=gofg&logoColor=white)
   [View Repository →](https://github.com/Achintyasingh412/Architecting-a-Hybrid-Multi-Agent-Software-Engineering-Pipeline-in-langflow)
 
-* **4. Biomedical NLP & Clinical Text ETL Pipeline**
+* **5. Biomedical NLP & Clinical Text ETL Pipeline**
   Enterprise-grade clinical text sanitization and medication entity extraction backed by an interactive Streamlit SaaS dashboard.
   *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
   [View Repository →](https://github.com/Achintyasingh412/biomedical-pipeline.1)
