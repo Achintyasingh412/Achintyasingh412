@@ -14,7 +14,7 @@
 > **Computer Science Engineering student** specializing in robust data pipelines, backend architecture, and interactive full-stack applications. 
 > 
 > * **Streamlit Specialist:** Built multiple production-ready interactive SaaS dashboards, data visualizers, and frontend tools.
-> * **Open Source & Research:** Active open-source contributor with active feature branches (`neurostuff/NiMARE #1161`)[cite: 25], merged/approved pull requests in **nilearn/nilearn**[cite: 20, 23, 24], and contributions across communities like `@firstcontributions` and `@TheAlgorithms`[cite: 22].
+> * **Open Source & Research:** Active open-source contributor with multiple merged pull requests in **nilearn/nilearn** (focusing on data pipelines, docstrings, and standardization mechanics), active work in **NiMARE**[cite: 25], and contributions across `@firstcontributions` and `@TheAlgorithms`[cite: 22].
 > * **Philosophy:** *A script that only works locally is just a draft. A model or pipeline wrapped cleanly with proper telemetry, automation, and a Streamlit UI becomes an enterprise tool.*
 
 ---
@@ -22,25 +22,26 @@
 ### 📊 <ins>**RECENT WORK & HIGHLIGHTS**</ins>
 | Project | Core Stack | Status |
 | :--- | :--- | :--- |
-| **neurostuff/NiMARE (PR #1161)** | Python, Jackknife Sensitivity Analysis | `ACTIVE`[cite: 25] |
-| **nilearn/nilearn (PR #6628)** | Python, Documentation Example | `MERGED`[cite: 23] |
-| **nilearn/nilearn (PR #6623)** | Python, Maintenance & Links Fix | `MERGED`[cite: 24] |
-| **nilearn/nilearn (PR #6313)** | Python, Bug Fix (`plot_anat`) | `APPROVED`[cite: 20] |
-| **Hybrid Multi-Agent Pipeline in Langflow** | Langflow, Python, AI Agents | `COMPLETED`[cite: 20, 21] |
+| **neurostuff/NiMARE (PR #1161)** | Python, Jackknife Sensitivity Analysis | ![ACTIVE](https://img.shields.io/badge/ACTIVE-228B22?style=flat-square)[cite: 25] |
+| **nilearn/nilearn (PR #6543)** | Python, `standardize` Parameter Docs & Fix | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square) |
+| **nilearn/nilearn (PR #6628)** | Python, Documentation Example | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square)[cite: 23] |
+| **nilearn/nilearn (PR #6623)** | Python, Maintenance & Links Fix | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square)[cite: 24] |
+| **nilearn/nilearn (PR #6313)** | Python, Bug Fix (`plot_anat`) | ![APPROVED](https://img.shields.io/badge/APPROVED-007EC6?style=flat-square)[cite: 20] |
 
 ---
 
 ### 🚀 <ins>**FEATURED PROJECTS**</ins>
 
-* **1. NiMARE Feature Development (PR #1161)**
+* **1. nilearn Open-Source Contributions & Standardization Logic**
+  Contributed bug fixes, maintenance, and core documentation updates to `nilearn/nilearn`. This included updating and clarifying documentation across the user guide and docstrings for the critical **`standardize`** parameter. 
+  * *Why Standardization Matters:* In neuroimaging and machine learning pipelines, standardizing time series data (centering to zero mean and scaling to unit variance) ensures that features with larger numerical scales do not disproportionately dominate model training, preventing bias and ensuring robust convergence for linear estimators and predictive models.
+  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)
+  [View Repository →](https://github.com/nilearn/nilearn)
+
+* **2. NiMARE Feature Development (PR #1161)**
   Developing advanced coordinate-based meta-analysis features, specifically implementing jackknife sensitivity analysis workflows to ensure statistical robustness in neuroimaging datasets[cite: 25].
   *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   [View Repository →](https://github.com/neurostuff/NiMARE)
-
-* **2. nilearn Open-Source Contributions**
-  Contributed maintenance updates, bug fixes, and documentation enhancements to `nilearn/nilearn`, including fixing NIfTI links and unstable URLs (PR #6623)[cite: 24], addressing `plot_anat` with `black_bg=False` (PR #6313)[cite: 20], and merging data directory examples (PR #6628)[cite: 23].
-  *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)
-  [View Repository →](https://github.com/nilearn/nilearn)
 
 * **3. Hybrid Multi-Agent Software Engineering Pipeline in Langflow**
   Architected a multi-agent orchestration framework simulating a complete software development house on a local machine, complete with upgrade planning and workflow documentation[cite: 20, 21].
