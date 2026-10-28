@@ -14,7 +14,7 @@
 > **Computer Science Engineering student** specializing in robust data pipelines, backend architecture, and interactive full-stack applications. 
 > 
 > * **Streamlit Specialist:** Built multiple production-ready interactive SaaS dashboards, data visualizers, and frontend tools.
-> * **Open Source & Research:** Active open-source contributor with multiple merged pull requests in **nilearn/nilearn** (focusing on data pipelines, docstrings, bug fixes, and standardization mechanics), active work in **NiMARE**, and contributions across `@firstcontributions` and `@TheAlgorithms`.
+> * **Open Source & Research:** Active open-source contributor with multiple merged pull requests in **nilearn/nilearn** (focusing on data pipelines, docstrings, bug fixes, and NaN validation mechanics), active work in **NiMARE**, and contributions across `@firstcontributions` and `@TheAlgorithms`.
 > * **Philosophy:** *A script that only works locally is just a draft. A model or pipeline wrapped cleanly with proper telemetry, automation, and a Streamlit UI becomes an enterprise tool.*
 
 ---
@@ -22,21 +22,21 @@
 ### 📊 <ins>**RECENT WORK & HIGHLIGHTS**</ins>
 | Project | Core Stack | Status |
 | :--- | :--- | :--- |
+| **nilearn/nilearn (Issue #5682)** | Python, `inverse_transform` NaN Validation | ![ACTIVE](https://img.shields.io/badge/ACTIVE-228B22?style=flat-square) |
 | **neurostuff/NiMARE (PR #1161)** | Python, Jackknife Sensitivity Analysis | ![ACTIVE](https://img.shields.io/badge/ACTIVE-228B22?style=flat-square) |
 | **Hostel Resource Negotiator** | TypeScript, Hacktoberfest Challenge | ![ACTIVE](https://img.shields.io/badge/ACTIVE-228B22?style=flat-square) |
 | **nilearn/nilearn (PR #6543)** | Python, `standardize` Parameter Docs & Fix | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square) |
 | **nilearn/nilearn (PR #6628)** | Python, Documentation Example | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square) |
 | **nilearn/nilearn (PR #6623)** | Python, Maintenance & Links Fix | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square) |
 | **nilearn/nilearn (PR #6313)** | Python, Bug Fix (`plot_anat`) | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square) |
-| **Open Source (First Contributions)** | Git, GitHub Workflow | ![MERGED](https://img.shields.io/badge/MERGED-purple?style=flat-square) |
 
 ---
 
 ### 🚀 <ins>**FEATURED PROJECTS**</ins>
 
-* **1. nilearn Open-Source Contributions & Standardization Logic**
-  Contributed bug fixes, maintenance, and core documentation updates to `nilearn/nilearn` (including PR #6313 fixing `plot_anat` with `black_bg=False`). This included updating and clarifying documentation across the user guide and docstrings for the critical **`standardize`** parameter. 
-  * *Why Standardization Matters:* In neuroimaging and machine learning pipelines, standardizing time series data (centering to zero mean and scaling to unit variance) ensures that features with larger numerical scales do not disproportionately dominate model training, preventing bias and ensuring robust convergence for linear estimators and predictive models.
+* **1. nilearn Open-Source Contributions & NaN Validation (Issue #5682)**
+  Actively tackling issue #5682 to improve error and warning mechanisms for `inverse_transform` when arrays contain `NaN` values, preventing silent failures and improving pipeline robustness. Also contributed bug fixes, maintenance, and core documentation updates (including PR #6543, #6628, #6623, and #6313).
+  * *Why Standardization & Validation Matter:* In neuroimaging pipelines, standardizing time series data (centering to zero mean and scaling to unit variance) prevents features with larger numerical scales from dominating model training. Proper NaN validation ensures data integrity before mapping back into 3D/4D spatial volumes.
   *Tools:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)
   [View Repository →](https://github.com/nilearn/nilearn)
 
